@@ -2,6 +2,9 @@ airbnb/profiles.yml
 airbnb/target*/
 logs/
 
+_course_resources/
+.devcontainer/
+
 airbnb/package-lock.yml
 airbnb/dbt_packages/
 airbnb/dbt_internal_packages/
