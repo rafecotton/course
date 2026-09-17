@@ -15,6 +15,7 @@ SELECT
         price_str,
         '$'
     ) :: NUMBER(10,2) AS price,
+    price_str,
     created_at,
     updated_at
 FROM src_listings
